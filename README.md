@@ -3,11 +3,10 @@
 <a name="torch.reference.dok"/>
 # Torch Package Reference Manual #
 
-__Torch__ is the main package in [Torch7](http://torch.ch) where data
-structures for multi-dimensional tensors and mathematical operations
-over these are defined. Additionally, it provides many utilities for
-accessing files, serializing objects of arbitrary types and other
-useful utilities.
+__Torch__ は、多次元テンソルと定義された数学演算のためのデータ構造 
+[Torch7](http://torch.ch) のメインパッケージです。加えて、これは、
+ファイルアクセス、任意の型のオブジェクトのシリアライズ、その他の
+便利なユーティリティを提供します。
 
 <a name="torch.reference.dok"/>
 ## Torch Packages ##
